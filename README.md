@@ -24,4 +24,4 @@
 [Алгоритм угадывает число в среднем за 5 попыток](https://github.com/BogdanTanchuk/DataCleaningProject/tree/master/outliers_lib)
 
 ### Решение
-[Ноутбук с визуализацией(https://github.com/BogdanTanchuk/DataCleaningProject/blob/master/data_cleaning_example.ipynb)
+[Ноутбук с визуализацией](https://github.com/BogdanTanchuk/DataCleaningProject/blob/master/data_cleaning_example.ipynb)
