@@ -1,13 +1,13 @@
 # DataCleaningProject
 
 ## Оглавление
-[1. Описание проекта](https://github.com/BogdanTanchuk/sf_data_science/tree/test/project_1/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/BogdanTanchuk/DataCleaningProject/edit/master/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/BogdanTanchuk/sf_data_science/tree/test/project_1/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/BogdanTanchuk/DataCleaningProject/edit/master/README.md#Какой-кейс-решаем)
 
-[3. Теория](https://github.com/BogdanTanchuk/sf_data_science/tree/test/project_1/README.md#Результат)
+[3. Теория](https://github.com/BogdanTanchuk/DataCleaningProject/edit/master/README.md#Результат)
 
-[4. Решение](https://github.com/BogdanTanchuk/sf_data_science/tree/test/project_1/README.md#Выводы)
+[4. Решение](https://github.com/BogdanTanchuk/DataCleaningProject/edit/master/README.md#Выводы)
 
 ### Описание проекта
 Очистка данных на примере датасета о квартирах в Москве и Московской области
